@@ -6,8 +6,8 @@ object Ammonite {
     ammonite.Main(
       predefCode =
         """
-          |import mw.ops;
-          |import mw.domain._;
+          |import avs.ops;
+          |import avs.domain._;
           |
           |val personLs = List(Person(23, "alice"), Person(35, "bob"), Person(21, "charlie"));
           |val intLs = List(-5, 8, 10, 2, 5);
