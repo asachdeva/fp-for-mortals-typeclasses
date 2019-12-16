@@ -1,4 +1,4 @@
-package mw.domain
+package avs.domain
 
 trait Orderable[A] {
 

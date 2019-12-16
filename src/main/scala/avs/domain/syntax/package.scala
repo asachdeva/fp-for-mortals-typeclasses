@@ -1,4 +1,4 @@
-package mw.domain
+package avs.domain
 
 package object syntax {
 

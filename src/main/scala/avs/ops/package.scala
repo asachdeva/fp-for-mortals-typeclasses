@@ -1,4 +1,4 @@
-package mw
+package avs
 
 import cats.Order
 import cats.syntax.order._

@@ -1,4 +1,4 @@
-package mw
+package avs
 
 object Ammonite {
 

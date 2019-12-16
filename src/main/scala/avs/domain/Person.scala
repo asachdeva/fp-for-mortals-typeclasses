@@ -1,4 +1,4 @@
-package mw.domain
+package avs.domain
 
 import cats.Order
 import cats.implicits._

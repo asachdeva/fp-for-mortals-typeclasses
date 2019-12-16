@@ -1,4 +1,7 @@
+# IDE
 .metals/
 .bloop/
+.idea/
 
+# BUILD
 target/
