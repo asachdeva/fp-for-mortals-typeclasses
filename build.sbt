@@ -9,7 +9,7 @@ libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-core" % "2.0.0"
 )
 
-mainClass := Some("com.ovoenergy.service.Ammonite")
+mainClass := Some("Ammonite")
 
 showSuccess := false
 
